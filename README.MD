@@ -1,5 +1,4 @@
 # Skeleton Project
-
 This project serves as a skeleton for building web applications using Django, HTMX, Alpine.js, Tailwind CSS, and Franken UI.
 
 ## Introduction
