@@ -1,0 +1,16 @@
+{
+  "name": "skeleton_project",
+  "version": "1.0.0",
+  "description": "A skeleton project using Django, HTMX, Alpine.js, Tailwind CSS, and Franken UI",
+  "author": "Marin TREMINE",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./static/css/tailwind.css -o ./static/css/style.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.11"
+  },
+  "dependencies": {
+    "franken-ui": "^1.0.0",
+    "postcss": "^8.4.45"
+  }
+}
